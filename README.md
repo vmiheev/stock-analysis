@@ -7,7 +7,6 @@ Performing analysis on price data for green stocks to provide yearly returns and
 
 ## Results
 
-### Analysis of Outcomes Based on Launch Date
 Below are the returns and total volumes for the selected stocks:
 
 ![Results_2017](/Resources/Results_2017.png) ![Results_2018](/Resources/Results_2018.png)
